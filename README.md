@@ -1,4 +1,6 @@
 # Market-Simulator
+Co-developed with Pedro García Romero
+
 This a simulation of how a checkout system would work
 
 The objective of this project is to emulate a checkout system in the supermarket. The maximum number of checkouts available is 5 and these will be opened and closed as the demand of customers who are going to pay for their items increases or decreases.
